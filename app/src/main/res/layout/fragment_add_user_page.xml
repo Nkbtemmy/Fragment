@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".add_user_page">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/addUser_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="adduser page"
+        android:textSize="25sp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="225dp"
+        android:layout_height="109dp"
+        android:background="@color/black"
+        android:text="Button" />
+
+</FrameLayout>
